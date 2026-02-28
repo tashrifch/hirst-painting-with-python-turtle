@@ -22,8 +22,3 @@ Draws a sequence of geometric shapes (triangle, square, pentagon, etc., up to a 
 
 ---
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/hirst-painting-with-turtle.git](https://github.com/your-username/hirst-painting-with-turtle.git)
